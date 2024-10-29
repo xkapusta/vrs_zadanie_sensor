@@ -1,0 +1,2 @@
+../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_bus.h:285:22:LL_AHB1_GRP1_EnableClock	1
+../Core/Src/gpio.c:37:6:MX_GPIO_Init	1
